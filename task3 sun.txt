@@ -1,0 +1,52 @@
+Task 1 
+
+create a file 'studentData.txt'
+
+open it and write 
+
+Name : abc
+Roll Number :  1
+Class : 10
+subject : English
+Marks : 80
+
+Task 2 (New Program)
+
+Take these Inputs from user
+
+name
+roll number
+class
+subject 1 Marks
+subject 2 Marks
+subject 3 Marks
+
+example
+
+name : abc
+roll : number 1
+subject 1 Marks : 10
+subject 2 Marks : 20
+subject 3 Marks : 30
+
+create a file of entered name
+
+example - abc.txt
+
+Add Total marks and  write into file through python program
+
+example 
+
+name : abc
+roll : number 1
+subject 1 Marks : 10
+subject 2 Marks : 20
+subject 3 Marks : 30
+Total : 60
+
+file to be created/modified through python program only
+
+
+
+
+                    

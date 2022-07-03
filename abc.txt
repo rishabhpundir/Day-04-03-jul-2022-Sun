@@ -1,0 +1,6 @@
+Name : abc
+Roll Number : 25
+Subject 1 Marks : 78
+Subject 2 Marks : 83
+Subject 3 Marks : 66
+Total Marks : 227/300
